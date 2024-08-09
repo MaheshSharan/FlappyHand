@@ -1,6 +1,6 @@
 ## Flappy Hand : A Fun Take on Flappy Bird with Hand Tracking
 
-**Flappy Hand ** is a game that combines the classic Flappy Bird gameplay with real-time hand gesture recognition using OpenCV and MediaPipe. This project is designed to explore the integration of computer vision in game development, allowing players to control a bird's flight with simple hand gestures like moving their index finger and giving a thumbs-up.
+**Flappy Hand** is a game that combines the classic Flappy Bird gameplay with real-time hand gesture recognition using OpenCV and MediaPipe. This project is designed to explore the integration of computer vision in game development, allowing players to control a bird's flight with simple hand gestures like moving their index finger and giving a thumbs-up.
 
 ## Motivation
 
